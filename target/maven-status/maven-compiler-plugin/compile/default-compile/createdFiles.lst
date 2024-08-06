@@ -1,0 +1,13 @@
+org/activiti/cloud/connectors/twitter/TwitterCloudConnectorApp.class
+org/activiti/cloud/connectors/twitter/controllers/DummyTwitterController.class
+org/activiti/cloud/connectors/twitter/connectors/TweetConnectorChannels.class
+org/activiti/cloud/connectors/twitter/TweetRepository.class
+org/activiti/cloud/connectors/twitter/configuration/FeedConfiguration.class
+org/activiti/cloud/connectors/twitter/CampaignMessageChannels.class
+org/activiti/cloud/connectors/twitter/model/Tweet.class
+org/activiti/cloud/connectors/twitter/model/Reward.class
+org/activiti/cloud/connectors/twitter/connectors/TweetConnector.class
+org/activiti/cloud/connectors/twitter/services/SocialFeedService.class
+org/activiti/cloud/connectors/twitter/model/RankedAuthor.class
+org/activiti/cloud/connectors/twitter/model/TweetEntity.class
+org/activiti/cloud/connectors/twitter/model/Home.class

@@ -1,0 +1,13 @@
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/connectors/CampaignMessageChannels.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/controllers/DummyTwitterController.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/connectors/TweetConnectorChannels.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/TwitterCloudConnectorApp.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/services/SocialFeedService.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/model/Home.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/model/Tweet.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/model/RankedAuthor.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/model/Reward.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/connectors/TweetConnector.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/model/TweetEntity.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/configuration/FeedConfiguration.java
+/Users/tranphuxuanan/Documents/project/ttc-connectors-dummytwitter/src/main/java/org/activiti/cloud/connectors/twitter/repository/TweetRepository.java
